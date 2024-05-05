@@ -1,0 +1,6 @@
+git init:  để tạo file git trong project.
+git status  : kiểm tra trạng thái.
+git add [...]  : cho các file vào chế độ sẵn sàng chuyển đén github.
+git commit -m "message" : sau khi thêm toàn bộ file lên xe tải, sẵn sàng chuyển đi thì cần viết một chú thích (bắt buộc pải có, giống như việc phải ký văn bản trước khi gửi )
+git remote add origin [url] : thêm địa chỉ giao hàng, tức là địa chỉ đường dẫn để gửi file đến github.
+git branch -M main : tạo nhánh chính.
