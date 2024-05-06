@@ -8,3 +8,7 @@ git branch -M main : tạo nhánh chính.
 -- tạo nhánh:
 + tạo nhánh và chuyển qua đó luôn thì dùng lệnh sau:
     git checkout -b [tên nhánh]
+
+-- gộp nhánh có cùng một xuất phát điểm:
++ chuyển đến nhánh muốn gô vào (ví dụ: nhập A vào B thì vào nhánh B để thực hiện thao tác)
+        git merge tên-nhánh-muốn-gộp-A
