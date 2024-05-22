@@ -17,7 +17,7 @@ public class StaticDemo {
         // Static không thể truy cập non-static(cá nhân)
         // non-static có thể truy câp static
 
-        Math.PI
+
 
 
     }
